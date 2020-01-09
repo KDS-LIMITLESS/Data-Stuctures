@@ -1,7 +1,7 @@
 # Data-Stuctures
 An implemantatiion of some of the advanced javascript Data Structures like Singly Linked Lists, Doubly linked Lists, Stacks, Queues etc.
                         
-                                         ********** HOW TO USE ************
+ # HOW TO USE 
              
              1. Create an instance of any of the class you want to use 
                     e.g        var tree = new BinarySearchTree
